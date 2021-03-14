@@ -1,9 +1,0 @@
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\bin\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.deps.json
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\bin\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.dll
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\bin\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.pdb
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.csprojAssemblyReference.cache
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.AssemblyInfoInputs.cache
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.AssemblyInfo.cs
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.csproj.CoreCompileInputs.cache
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.dll
-C:\Users\DBracket\source\repos\DBracket.IPC.Pipes.Core\DBracket.IPC.Pipes.Core\obj\Debug\netstandard2.0\DBracket.IPC.Pipes.Core.pdb
