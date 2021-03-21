@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Product>IPCPipesBase</Product>
+    <Company />
+    <Authors>D-Bracket</Authors>
+    <Description>Base library for IPC via pipes.</Description>
+    <PackageTags>IPC, Pipes, DataExchange, Data, Transfer</PackageTags>
+    <PackageReleaseNotes>Creation of the package</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryUrl>https://github.com/D-Bracket/DBracketIPCPipesCore</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/D-Bracket/DBracketIPCPipesCore</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
